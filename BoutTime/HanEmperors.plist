@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Xiandi</key>
+	<dict>
+		<key>order</key>
+		<integer>27</integer>
+		<key>description</key>
+		<string>The various regional warlords formally acknowledged his legitimacy but never took action to save him from being held hostage.</string>
+		<key>year</key>
+		<integer>189</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Xian_of_Han</string>
+	</dict>
+	<key>Lingdi</key>
+	<dict>
+		<key>order</key>
+		<integer>26</integer>
+		<key>description</key>
+		<string>Even after he grew to adulthood, he was not interested in governmental affairs</string>
+		<key>year</key>
+		<integer>168</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Ling_of_Han</string>
+	</dict>
+	<key>Huandi</key>
+	<dict>
+		<key>order</key>
+		<integer>25</integer>
+		<key>description</key>
+		<string>He was poisoned to death by the powerful official Liang Ji</string>
+		<key>year</key>
+		<integer>146</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Huan_of_Han</string>
+	</dict>
+	<key>Zhidi</key>
+	<dict>
+		<key>order</key>
+		<integer>24</integer>
+		<key>description</key>
+		<string>He was remarkably intelligent and he knew and was offended by the immense power Liang Ji had over the government</string>
+		<key>year</key>
+		<integer>145</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Zhi_of_Han</string>
+	</dict>
+	<key>Chongdi</key>
+	<dict>
+		<key>order</key>
+		<integer>23</integer>
+		<key>description</key>
+		<string>He ascended the throne at the age of one and reigned less than six months</string>
+		<key>year</key>
+		<integer>144</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Chong_of_Han</string>
+	</dict>
+	<key>Shundi</key>
+	<dict>
+		<key>order</key>
+		<integer>22</integer>
+		<key>description</key>
+		<string>His personality was mild, just as incompetent as his father in general</string>
+		<key>year</key>
+		<integer>125</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Shun_of_Han</string>
+	</dict>
+	<key>Andi</key>
+	<dict>
+		<key>order</key>
+		<integer>21</integer>
+		<key>description</key>
+		<string>He removed many of her relatives from government and many of them committed suicide</string>
+		<key>year</key>
+		<integer>106</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_An_of_Han</string>
+	</dict>
+	<key>Hedi</key>
+	<dict>
+		<key>order</key>
+		<integer>20</integer>
+		<key>description</key>
+		<string>He ascended the throne at the age of nine and reigned for 17 years</string>
+		<key>year</key>
+		<integer>88</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_He_of_Han</string>
+	</dict>
+	<key>Zhangdi</key>
+	<dict>
+		<key>order</key>
+		<integer>19</integer>
+		<key>description</key>
+		<string>Under him, Han society prospered and its culture flourished during this period.</string>
+		<key>year</key>
+		<integer>75</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Zhang_of_Han</string>
+	</dict>
+	<key>Mingdi</key>
+	<dict>
+		<key>order</key>
+		<integer>18</integer>
+		<key>description</key>
+		<string>He was a hard-working, able administrator of the empire who showed integrity and demanded integrity from his officials</string>
+		<key>year</key>
+		<integer>57</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Ming_of_Han</string>
+	</dict>
+	<key>Guangwudi</key>
+	<dict>
+		<key>order</key>
+		<integer>17</integer>
+		<key>description</key>
+		<string>He established his capital in Luoyang</string>
+		<key>year</key>
+		<integer>25</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han</string>
+	</dict>
+	<key>Gengshidi</key>
+	<dict>
+		<key>order</key>
+		<integer>16</integer>
+		<key>description</key>
+		<string>He was viewed as a weak and incompetent ruler, who briefly ruled over an empire willing to let him rule over them, but was unable to keep that empire together</string>
+		<key>year</key>
+		<integer>23</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Gengshi_Emperor_of_Han</string>
+	</dict>
+	<key>WangMang</key>
+	<dict>
+		<key>order</key>
+		<integer>15</integer>
+		<key>description</key>
+		<string>He seized the throne from the Liu family and founded the Xin Dynasty</string>
+		<key>year</key>
+		<integer>9</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Wang_Mang</string>
+	</dict>
+	<key>Ruzi</key>
+	<dict>
+		<key>order</key>
+		<integer>14</integer>
+		<key>description</key>
+		<string>He is often viewed as an innocent child who was the victim of tragic circumstances</string>
+		<key>year</key>
+		<integer>6</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Ruzi_Ying</string>
+	</dict>
+	<key>Pingdi</key>
+	<dict>
+		<key>order</key>
+		<integer>13</integer>
+		<key>description</key>
+		<string>From here onwards, the Han Dynasty existed only in name</string>
+		<key>year</key>
+		<integer>1</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Ping_of_Han</string>
+	</dict>
+	<key>Aidi</key>
+	<dict>
+		<key>order</key>
+		<integer>12</integer>
+		<key>description</key>
+		<string>He was viewed by people to be intelligent, articulate, and capable at the beginning</string>
+		<key>year</key>
+		<integer>-7</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Ai_of_Han</string>
+	</dict>
+	<key>Chengdi</key>
+	<dict>
+		<key>order</key>
+		<integer>11</integer>
+		<key>description</key>
+		<string>Under him, corruptions and greedy officials continued to plague the government and as a result rebellions broke out throughout the country</string>
+		<key>year</key>
+		<integer>-33</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Cheng_of_Han</string>
+	</dict>
+	<key>Yuandi</key>
+	<dict>
+		<key>order</key>
+		<integer>10</integer>
+		<key>description</key>
+		<string>He was remembered for the promotion of Confucianism as the official creed of Chinese government</string>
+		<key>year</key>
+		<integer>-49</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Yuan_of_Han</string>
+	</dict>
+	<key>Xuandi</key>
+	<dict>
+		<key>order</key>
+		<integer>9</integer>
+		<key>description</key>
+		<string>His life story was a riches-to-rags-to-riches story</string>
+		<key>year</key>
+		<integer>-74</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Xuan_of_Han</string>
+	</dict>
+	<key>Zhaodi</key>
+	<dict>
+		<key>order</key>
+		<integer>8</integer>
+		<key>description</key>
+		<string>He took the initiative of the previous emperor and lowered taxes as well as reduced government spending</string>
+		<key>year</key>
+		<integer>-87</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Zhao_of_Han</string>
+	</dict>
+	<key>Wudi</key>
+	<dict>
+		<key>order</key>
+		<integer>7</integer>
+		<key>description</key>
+		<string>He was known for his religious innovations and patronage of the poetic and musical arts, including development of the imperial Music Bureau into a prestigious entity</string>
+		<key>year</key>
+		<integer>-141</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Wu_of_Han</string>
+	</dict>
+	<key>Jingdi</key>
+	<dict>
+		<key>order</key>
+		<integer>6</integer>
+		<key>description</key>
+		<string>He managed to crush the revolt and princes were thereafter denied rights to appoint ministers for their fiefs</string>
+		<key>year</key>
+		<integer>-157</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Jing_of_Han</string>
+	</dict>
+	<key>Wendi</key>
+	<dict>
+		<key>order</key>
+		<integer>5</integer>
+		<key>description</key>
+		<string>He introduced recruitment to the civil service through examinations</string>
+		<key>year</key>
+		<integer>-180</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Wen_of_Han</string>
+	</dict>
+	<key>ShaodiHong</key>
+	<dict>
+		<key>order</key>
+		<integer>4</integer>
+		<key>description</key>
+		<string>His brother was secretly imprisoned within the palace and publicly announced that he was severely ill and unable to receive anyone</string>
+		<key>year</key>
+		<integer>-184</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Houshao_of_Han</string>
+	</dict>
+	<key>ShaodiGong</key>
+	<dict>
+		<key>order</key>
+		<integer>3</integer>
+		<key>description</key>
+		<string>He was considered to be a mere puppet of Grand Empress Dowager Lu</string>
+		<key>year</key>
+		<integer>-188</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Qianshao_of_Han</string>
+	</dict>
+	<key>Huidi</key>
+	<dict>
+		<key>order</key>
+		<integer>2</integer>
+		<key>description</key>
+		<string>He was generally remembered as a weak character dominated by his mother, Empress Dowager Lü, personally kind and generous but unable to escape the impact of her viciousness</string>
+		<key>year</key>
+		<integer>-195</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Hui_of_Han</string>
+	</dict>
+	<key>Gaozu</key>
+	<dict>
+		<key>order</key>
+		<integer>1</integer>
+		<key>description</key>
+		<string>He was one of the few dynasty founders in Chinese history with humble origin from the peasant class</string>
+		<key>year</key>
+		<integer>-202</integer>
+		<key>wikiLink</key>
+		<string>https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han</string>
+	</dict>
+</dict>
+</plist>

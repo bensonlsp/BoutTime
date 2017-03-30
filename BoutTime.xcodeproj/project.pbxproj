@@ -12,6 +12,11 @@
 		F44B4C791E83FEB900B6314F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F44B4C771E83FEB900B6314F /* Main.storyboard */; };
 		F44B4C7B1E83FEB900B6314F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F44B4C7A1E83FEB900B6314F /* Assets.xcassets */; };
 		F44B4C7E1E83FEB900B6314F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F44B4C7C1E83FEB900B6314F /* LaunchScreen.storyboard */; };
+		F44B4C861E84019E00B6314F /* HanEmperors.plist in Resources */ = {isa = PBXBuildFile; fileRef = F44B4C851E84019E00B6314F /* HanEmperors.plist */; };
+		F4FAC6FC1E8783120021F1DB /* Dynasty.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FAC6FB1E8783120021F1DB /* Dynasty.swift */; };
+		F4FAC6FE1E87DC750021F1DB /* HelperFunctionClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FAC6FD1E87DC750021F1DB /* HelperFunctionClass.swift */; };
+		F4FAC7001E8BFF770021F1DB /* GameOverViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FAC6FF1E8BFF770021F1DB /* GameOverViewController.swift */; };
+		F4FAC7021E8C15A70021F1DB /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F4FAC7011E8C15A70021F1DB /* WebViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		F44B4C7A1E83FEB900B6314F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F44B4C7D1E83FEB900B6314F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F44B4C7F1E83FEB900B6314F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F44B4C851E84019E00B6314F /* HanEmperors.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = HanEmperors.plist; sourceTree = "<group>"; };
+		F4FAC6FB1E8783120021F1DB /* Dynasty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dynasty.swift; sourceTree = "<group>"; };
+		F4FAC6FD1E87DC750021F1DB /* HelperFunctionClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelperFunctionClass.swift; sourceTree = "<group>"; };
+		F4FAC6FF1E8BFF770021F1DB /* GameOverViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameOverViewController.swift; sourceTree = "<group>"; };
+		F4FAC7011E8C15A70021F1DB /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +66,15 @@
 			children = (
 				F44B4C731E83FEB900B6314F /* AppDelegate.swift */,
 				F44B4C751E83FEB900B6314F /* ViewController.swift */,
+				F4FAC6FF1E8BFF770021F1DB /* GameOverViewController.swift */,
+				F4FAC7011E8C15A70021F1DB /* WebViewController.swift */,
 				F44B4C771E83FEB900B6314F /* Main.storyboard */,
-				F44B4C7A1E83FEB900B6314F /* Assets.xcassets */,
 				F44B4C7C1E83FEB900B6314F /* LaunchScreen.storyboard */,
+				F44B4C7A1E83FEB900B6314F /* Assets.xcassets */,
 				F44B4C7F1E83FEB900B6314F /* Info.plist */,
+				F44B4C851E84019E00B6314F /* HanEmperors.plist */,
+				F4FAC6FB1E8783120021F1DB /* Dynasty.swift */,
+				F4FAC6FD1E87DC750021F1DB /* HelperFunctionClass.swift */,
 			);
 			path = BoutTime;
 			sourceTree = "<group>";
@@ -127,6 +142,7 @@
 				F44B4C7E1E83FEB900B6314F /* LaunchScreen.storyboard in Resources */,
 				F44B4C7B1E83FEB900B6314F /* Assets.xcassets in Resources */,
 				F44B4C791E83FEB900B6314F /* Main.storyboard in Resources */,
+				F44B4C861E84019E00B6314F /* HanEmperors.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +154,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				F44B4C761E83FEB900B6314F /* ViewController.swift in Sources */,
+				F4FAC7021E8C15A70021F1DB /* WebViewController.swift in Sources */,
+				F4FAC6FE1E87DC750021F1DB /* HelperFunctionClass.swift in Sources */,
 				F44B4C741E83FEB900B6314F /* AppDelegate.swift in Sources */,
+				F4FAC6FC1E8783120021F1DB /* Dynasty.swift in Sources */,
+				F4FAC7001E8BFF770021F1DB /* GameOverViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -300,6 +320,7 @@
 				F44B4C841E83FEB900B6314F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
