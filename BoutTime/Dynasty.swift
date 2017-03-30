@@ -22,8 +22,6 @@ struct Emperor {
     // The order of the emperor in the Han history from far to recent
     let order: Int
     // The year is when the emperor began to rule the country
-    // For positive number of year, such as 30, it means the year of 30AD
-    // For negative number of year, such as -56, it means the year of 56BC
     let year: Int
     // The brief description of the emperor
     let description: String
